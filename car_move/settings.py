@@ -33,8 +33,8 @@ ALLOWED_HOSTS = [
 # Application definition
 
 INSTALLED_APPS = [
-    # "jazzmin",
-    "unfold",
+    "jazzmin",
+    # "unfold",
     "cars.apps.CarsConfig",
     "django.contrib.admin",
     "django.contrib.auth",
